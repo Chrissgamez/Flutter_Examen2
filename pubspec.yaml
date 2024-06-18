@@ -1,0 +1,12 @@
+name: examen2
+description: "A new Flutter project."
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^1.10.0
+  firebase_auth: ^3.3.3
+  cloud_firestore: ^3.1.5
+  provider: ^6.0.1
+  image_picker: ^0.8.4+4
+
